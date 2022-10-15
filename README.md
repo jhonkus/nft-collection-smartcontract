@@ -1,14 +1,15 @@
-# Sample Hardhat Project
+# NFT Collection smart contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is the smart contract of the NFT Collection front end.
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
 npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-Contract deployed to: 0x16b6DD8DaD56cD9611B6eF9Eac15789FA090eCad# nft-collection-smartcontract
+
+The frontend is here 
+https://github.com/jhonkus/nft-collection
